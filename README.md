@@ -11,7 +11,7 @@ Comments in the code are in Portuguese.
 
 ---
 
-## Problem overview (ONTS in this repo)
+## Problem overview
 
 We schedule **J jobs** over **T time steps**. The schedule is a binary matrix:
 
